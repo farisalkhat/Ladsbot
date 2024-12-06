@@ -22,9 +22,10 @@ LadsBot looks for completed series on the series page on Dotabuff. Each Dotabuff
   1. Clone the repo
   2. Open the project in VSC
   3. Open the terminal and install required modules: pip install -r requirements.txt
-  4. In tokens.py, acquire and place your api tokens for discord and stratz. 
+  4. In tokens.py, acquire and place your api tokens for discord and stratz
+  5. Invite your Discord Bot to your server
   5. In the terminal, run: python dotabot.py
-  6. If it runs, then you're all set! 
+  6. If it runs, then you're all set
 ```
     
 ## Terminology
