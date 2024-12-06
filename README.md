@@ -33,6 +33,7 @@ LadsBot looks for completed series on the series page on Dotabuff. Each Dotabuff
 Below are what you need in order to run these commands:
 
 TournamentID: The ID of the tournament. Found on Dotabuff.
+
 ![](https://i.imgur.com/3eK0qak.png)
 
 ChannelID: The channel in which you want the discord bot to make the notifications. You can find this by right clicking any channel in your discord server and hitting “Copy Channel ID” 
@@ -41,10 +42,12 @@ ChannelID: The channel in which you want the discord bot to make the notificatio
 ![alt text](https://i.imgur.com/s9OPcGH.png)
 
 URL: The Dotabuff url of the series page for the tournament.
+
 ![](https://imgur.com/ghpdHX0.png)
 
 
 Message: The message that the bot will say when it posts a series. 
+
 ![](https://imgur.com/lQyHOcE.png)
 ImageURL: The url for the image that’ll appear in the posts.
 
